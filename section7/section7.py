@@ -104,4 +104,25 @@ print(type(child))  # <class 'NoneType'>
                     # 48 DOUBLE VS SINGLE QUOTES 
         # 'T SUSIL KUMAR'
         #"T.SUSIL KUMAR'S"
-        
+  
+  #==========================================================================
+
+                    # 50 STRING ESCAPE SEQUENCES 
+                        # \n leaves a line
+                        # \t Leaves a space (Horigantal tab)
+                        # \r carriage return
+                        # \v Vertical tab
+
+#==========================================================================
+
+                  # 52 STRING CONCATENATION
+""" 
+      str_one = "Your"
+      str_two = "face"
+      str_three = str_one + " " + str_two # Your face
+       
+ """
+#==========================================================================
+
+                
+                
