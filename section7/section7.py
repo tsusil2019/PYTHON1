@@ -1,3 +1,5 @@
+""" 
+
 # 42 Introduction to variables
 
 numberofcats = 10
@@ -11,14 +13,14 @@ friends = 0
 print(friends)
 friends = numberofcats
 print(friends)
-
+ """
 #==========================================================================
 
-cash = 19867324678987.99
+""" cash = 19867324678987.99
 print(cash/5)
 cash = cash / 5
 print(cash)
-
+ """
 #==========================================================================
 """     # 44 Variable Naming Restrictions and conventions
 
@@ -63,5 +65,43 @@ print(cash)
  #==========================================================================
 
                  # 46 WHAT tTHE HECK IS DYNAMIC TYPING 
+""" 
+NOTE
+                   Python is highly flexible about reassigning variables to different 
+                   types 
+                  
+                   EX : awesome = True;
+                        print(awesome) # True
+                        awesome = None # noting 
+                        print(awesome) #None
+                        awesome = "a dog"
+                        print(awesome) # a gog
+                  # We call above variable awesome as DYNAMIC TYPING since 
+                  # variables can change type 
+                    readily .
 
-    
+                    Other Language such as C++ are statically-typed and variables
+                             are stuck with their
+                       Originally-assigned type:
+
+                    Ex : int not_awesome = 5;
+                        not_awesome = "cool" # !ERROR
+                      
+
+ """
+""" 
+# EXAMPLES
+
+print(None) # you need to define it first (the None value) . NONE is for NOTHING
+child = None
+print(child)
+print(type(child))  # <class 'NoneType'>
+
+ """
+
+  #==========================================================================
+
+                    # 48 DOUBLE VS SINGLE QUOTES 
+        # 'T SUSIL KUMAR'
+        #"T.SUSIL KUMAR'S"
+        
