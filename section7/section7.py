@@ -62,6 +62,6 @@ print(cash)
 
  #==========================================================================
 
-                 # 46 WHAT THE HECK IS DYNAMIC TYPING 
+                 # 46 WHAT tTHE HECK IS DYNAMIC TYPING 
 
     
