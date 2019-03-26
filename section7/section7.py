@@ -124,5 +124,17 @@ print(type(child))  # <class 'NoneType'>
  """
 #==========================================================================
 
+
                 
-                
+     Determining variable type with type()
+    You can check what type of object is assigned to a variable using +
+    Python's built-in type() function. Common data types include:
+
+           int (for integer)
+          float
+          str (for string)
+          list
+          tuple
+          dict (for dictionary)
+          set
+          bool (for Boolean True/False)
